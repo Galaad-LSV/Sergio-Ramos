@@ -36,4 +36,4 @@ jobs:
         uses: nwtgck/actions-netlify@v1.2.3
         with:
         # Publish directory
-          publish-dir: dist
+          publish-dir: ./dist
