@@ -24,7 +24,7 @@
     </label>
 
     <label for="offset">
-      Page
+      N° page
       <input id="offset" name="offset" type="number" min="1" max="50" bind:value={page}>
     </label>
 
