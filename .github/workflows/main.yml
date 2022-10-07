@@ -29,7 +29,6 @@ jobs:
           cd ./myapp
           npm install
           npm run build
-          npm run dev
       
       - name: Netlify Actions
           # You may pin to the exact commit or the version.
